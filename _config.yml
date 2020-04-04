@@ -1,16 +1,16 @@
-title:            Allan's blog
+title:            Qixuan's blog
 tagline:          A beautiful theme.
 description:      Describe your website.
 # canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Webxuan
+  name:           Qixuan
   avatar:         avatar.png
   bio:            "CS"
-  email:          xiaodoubizwx@gmail.com
-  twitter:        AllanZhao9
-  github:         Allanware
+  email:          qixuanfeng0801@gmail.com
+  twitter:        
+  github:         QuantumJack
  # instagram:      ctrunsthis
   #dribbble:       coletownsend
  #disqus:         balzac
@@ -33,7 +33,7 @@ links:
   - title: Article
     url: /articles
   - title: Github
-    url: https://github.com/Allanware
+    url: https://github.com/QuantumJack
     external: true
   # - title: Cole Who?
   #   url: http://coletownsend.com
