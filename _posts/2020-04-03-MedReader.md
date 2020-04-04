@@ -1,15 +1,13 @@
 ---
 layout: post-light-feature
 title: MedReader
-description: "MedReader"
 categories: articles
 date: 2019-08-28
 image: 
         feature: soft-trees.jpg
 ---
 
-
-### MedReader
+### Gallery
 
 <figure>
 	<img src="https://raw.githubusercontent.com/Joyliu290/MedReader/master/ExampleImg.jpg">
