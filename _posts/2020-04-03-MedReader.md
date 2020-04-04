@@ -8,6 +8,14 @@ image:
         feature: soft-trees.jpg
 ---
 
+
+### MedReader
+
+<figure>
+	<img src="https://raw.githubusercontent.com/Joyliu290/MedReader/master/ExampleImg.jpg">
+	<figcaption>Example of how to use MedReader</figcaption>
+</figure>
+
 ## Introduction
 - This is a prize-winning hackathon project with our team: me, Anita, Sahana and Joy. We are very proud that InfoSys believed in our idea and chose MedReader to be one of the winners of Most Efficient and Sustainable Energy Hack of Stanford's Treehack2020!
 
