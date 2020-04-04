@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: MedReader
-description: "Learn Jekyll"
+description: "MedReader"
 categories: articles
 date: 2019-08-28
 image: 
